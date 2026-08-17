@@ -79,7 +79,7 @@ function Hero() {
           <div className="hero-buttons">
 
             <motion.a
-              href="/Resume.pdf"
+              href="/Vairameenal B_FRONTEND DEVELOPER.pdf"
               target="_blank"
               className="btn primary-btn"
               whileHover={{ scale: 1.05, y: -3 }}
